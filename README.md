@@ -3,7 +3,7 @@ Desáfio para utilizar o próprio sistema para informar as Horas, minutos e segu
 
 ###  Captura de tela
 
-![](./gif/bateria.gif)
+![](./relogio.gif)
 
 ###  Links
 
